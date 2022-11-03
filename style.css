@@ -126,9 +126,11 @@ img {
 }
 
 /* CHAIRS */
-/* .chair {
-  box-shadow: 20px 20px 20px 10px #000;
-} */
+.chair {
+  box-shadow: 0px 20px 20px 0px rgba(0, 0, 0, 0.1);
+  /* box-shadow: 0px 5px 20px 15px #087f5b1a; */
+
+}
 
 .chair-box {
   padding: 24px;
